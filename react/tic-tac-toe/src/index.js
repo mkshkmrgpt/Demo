@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import Game from './Game';
+import './square/square.css';
+import './board/board.css';
+import Game from './game/Game';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<Game />, document.getElementById('root'));

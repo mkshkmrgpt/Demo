@@ -3,7 +3,7 @@ class Square extends React.Component{
 
     render(){
         return (
-            <h1>Tic tac toe</h1>
+           <button className="square">{this.props.value}</button>
         )
     }
 }
