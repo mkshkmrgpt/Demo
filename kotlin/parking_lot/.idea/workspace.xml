@@ -1,7 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eba961eb-9b6f-4acb-8e0b-5536f5637e39" name="Default Changelist" comment="" />
+    <list default="true" id="a1b10dd2-86e3-4904-84ee-e2d5f8e2644f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_junit_jupiter_junit_jupiter_api_5_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15d24289f8b3f408864e13fff8dea0127082d0a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c88a774de2eb03d4b0499a6e8663129c546ae32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/658fbe352a230988db49d1eca9793ff4c9db0e2d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/735acc4c0b01f1478c2973b40c02c4a5eaeebce7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/826501b9236ee239885bfdd1416a70660f161eab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93d817d3d16a1b6654c3c04e2c007c487d736488" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a07a207096b3095083e8558a4d9241c14dd2bd2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a13765a33bbfeab0541eabd7a4b5bc83b713a1e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4d90e0db91d135a827806af99ef116c02b59b01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bea00ff4e5300712ee1b117901b841eb5fa7da59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d45db5001326da28d9d0594679f5d507f62c4b2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3674a7a367cde06bfc4506791330823bbf553e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff9855ed00ad2aaabe286d6baad8e49f060ba363" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/META-INF/parking_lot.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/Constants/ParkingSpotType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/Constants/ParkingStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/Constants/VehicleColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/ParkingMainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/command/CreateParkingLotCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/command/ExitCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/command/LeaveParkingCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/command/ParkVehicleCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/command/ParkedSpotByRegistrationCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/command/ParkedSpotsByColorCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/command/ParkedVehiclesByColorCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/command/ParkingCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/command/ParkingCommands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/command/ParkingStatusCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/entity/CarSpot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/entity/ParkingSpot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/entity/ParkingTicket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/entity/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/CreationMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/LeaveParkingMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/Parkable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/ParkedMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/ParkedSpotsMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/ParkedVehicleMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/ParkingFullMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/ParkingLot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/ParkingSpotMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/parking_lot/main/parking/ParkingStatusMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/libraries/org_junit_jupiter_junit_jupiter_api_5_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/1/5/15d24289f8b3f408864e13fff8dea0127082d0a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/2/c/2c88a774de2eb03d4b0499a6e8663129c546ae32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/6/5/658fbe352a230988db49d1eca9793ff4c9db0e2d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/7/3/735acc4c0b01f1478c2973b40c02c4a5eaeebce7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/8/2/826501b9236ee239885bfdd1416a70660f161eab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/9/3/93d817d3d16a1b6654c3c04e2c007c487d736488" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/a/0/a07a207096b3095083e8558a4d9241c14dd2bd2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/a/1/a13765a33bbfeab0541eabd7a4b5bc83b713a1e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/a/4/a4d90e0db91d135a827806af99ef116c02b59b01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/b/e/bea00ff4e5300712ee1b117901b841eb5fa7da59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/d/4/d45db5001326da28d9d0594679f5d507f62c4b2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/e/3/e3674a7a367cde06bfc4506791330823bbf553e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/f/f/ff9855ed00ad2aaabe286d6baad8e49f060ba363" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/META-INF/parking_lot.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/command/CreateParkingLotCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/command/LeaveParkingCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/command/ParkVehicleCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/command/ParkedSpotByRegistrationCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/command/ParkedSpotsByColorCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/command/ParkedVehiclesByColorCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/command/ParkingStatusCommandTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/entity/CarSpotTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/Constants/ParkingSpotType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/Constants/ParkingStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/Constants/VehicleColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/ParkingMainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/command/CreateParkingLotCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/command/ExitCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/command/LeaveParkingCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/command/ParkVehicleCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/command/ParkedSpotByRegistrationCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/command/ParkedSpotsByColorCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/command/ParkedVehiclesByColorCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/command/ParkingCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/command/ParkingCommands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/command/ParkingStatusCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/entity/CarSpot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/entity/ParkingSpot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/entity/ParkingTicket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/entity/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/CreationMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/LeaveParkingMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/Parkable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/ParkedMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/ParkedSpotsMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/ParkedVehicleMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/ParkingFullMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/ParkingLot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/ParkingSpotMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/main/parking/ParkingStatusMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/parking/ParkingLotTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/parking_lot/parking_lot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parking_lot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/parking_lot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ParkingMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ParkingMain.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,174 +133,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/parking/ParkingLot.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/command/Command.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-              <folding>
-                <element signature="e#22#175#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/command/ParkedSpotsByColorCommandTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/command/ParkedVehiclesByColorCommandTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/command/ParkingStatusCommandTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/ParkingMain.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="225">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/command/ParkVehicleCommandTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/parking_lot.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/command/LeaveParkingCommandTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="21" column="76" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="21" selection-end-column="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/entity/Vehicle.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/command/ParkedSpotByRegistrationCommandTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/constants/Enums.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="615">
+                <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="Kotlin File" />
-        <option value="JUnit4 Test Class" />
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/ParkingLotTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/VehicleColor.kt" />
-        <option value="$PROJECT_DIR$/src/test/ParkingLotTest0.java" />
-        <option value="$PROJECT_DIR$/src/test/ParkingLotTest.java" />
-        <option value="$PROJECT_DIR$/src/test/ParkingLotTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/DataClasses.kt" />
-        <option value="$PROJECT_DIR$/src/main/main/ExitCommand.kt" />
-        <option value="$PROJECT_DIR$/src/main/ParkingTicket.kt" />
-        <option value="$PROJECT_DIR$/src/main/Vehicle.kt" />
-        <option value="$PROJECT_DIR$/src/main/ParkingSpot.kt" />
-        <option value="$PROJECT_DIR$/src/main/Display.java" />
-        <option value="$PROJECT_DIR$/src/main/Command.kt" />
-        <option value="$PROJECT_DIR$/src/main/Constants/Enums.kt" />
-        <option value="$PROJECT_DIR$/src/main/Display.kt" />
-        <option value="$PROJECT_DIR$/src/main/ParkingLot.kt" />
-        <option value="$PROJECT_DIR$/src/main/ParkingProcessor.kt" />
-        <option value="$PROJECT_DIR$/src/main/parking/Display.kt" />
-        <option value="$PROJECT_DIR$/src/test/parking/CreationMessageTest.java" />
-        <option value="$PROJECT_DIR$/src/test/parking/ParkedMessageTest.java" />
-        <option value="$PROJECT_DIR$/src/test/parking/CreationMessageTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/parking/ParkingLotTest" />
-        <option value="$PROJECT_DIR$/src/test/parking/ParkedMessageTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/parking/ParkingLotTest.java" />
-        <option value="$PROJECT_DIR$/src/main/parking/Parking.kt" />
-        <option value="$PROJECT_DIR$/src/main/command/ParkingCommands.kt" />
+        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/main/ParkingMain.kt" />
-        <option value="$PROJECT_DIR$/src/main/parking/ParkingLot.kt" />
-        <option value="$PROJECT_DIR$/src/main/parking/Message.kt" />
-        <option value="$PROJECT_DIR$/src/test/parking/ParkingLotTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/entity/CarSpotTest.java" />
-        <option value="$PROJECT_DIR$/src/test/entity/CarSpotTest1.kt" />
-        <option value="$PROJECT_DIR$/src/test/entity/CarSpotTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/command/CreateParkingLotCommandTest.java" />
-        <option value="$PROJECT_DIR$/src/test/command/CreateParkingLotCommandTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkVehicleCommandTest.java" />
-        <option value="$PROJECT_DIR$/src/test/command/LeaveParkingCommandTest.java" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkingStatusCommandTest.java" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkingSpotByRegistrationCommandTest.java" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkedSpotsByColorCommandTest.java" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkedSVehiclesByColorCommandTest.java" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkedSVehiclesByColorCommandTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkVehicleCommandTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/command/LeaveParkingCommandTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/parking/Messages.kt" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkedSpotsByColorCommandTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkedVehiclesByColorCommandTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/entity/Vehicle.kt" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkingSpotByRegistrationCommandTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/command/Command.kt" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkedSpotByRegistrationCommandTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/command/ParkingStatusCommandTest.kt" />
       </list>
     </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="48" />
@@ -185,139 +179,43 @@
     <option name="width" value="1607" />
     <option name="height" value="954" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parking_lot" type="b2602c69:ProjectViewProjectNode" />
               <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parking_lot" type="b2602c69:ProjectViewProjectNode" />
               <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="parking_lot" type="b2602c69:ProjectViewProjectNode" />
               <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="constants" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking_lot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="parking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ParkingLot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574140243480" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/command" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="command" />
-      <recent name="entity" />
-      <recent name="parking" />
-      <recent name="test" />
-      <recent name="main" />
-    </key>
-    <key name="CreateKotlinClassDialog.RecentsKey">
-      <recent name="main" />
-    </key>
-    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
-      <recent name="command" />
-      <recent name="parking" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/main/parking" />
-      <recent name="$PROJECT_DIR$/src/main/Constants" />
-      <recent name="$PROJECT_DIR$/src/main/command" />
-      <recent name="$PROJECT_DIR$/src/main/entity" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -331,510 +229,91 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ParkingStatusCommandTest">
-    <configuration name="LeaveParkingCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parking_lot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="command.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="command" />
-      <option name="MAIN_CLASS_NAME" value="command.LeaveParkingCommandTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParkedSpotByRegistrationCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parking_lot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="command.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="command" />
-      <option name="MAIN_CLASS_NAME" value="command.ParkedSpotByRegistrationCommandTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParkedSpotsByColorCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parking_lot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="command.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="command" />
-      <option name="MAIN_CLASS_NAME" value="command.ParkedSpotsByColorCommandTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParkedVehiclesByColorCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parking_lot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="command.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="command" />
-      <option name="MAIN_CLASS_NAME" value="command.ParkedVehiclesByColorCommandTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParkingStatusCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parking_lot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="command.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="command" />
-      <option name="MAIN_CLASS_NAME" value="command.ParkingStatusCommandTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.ParkingStatusCommandTest" />
-        <item itemvalue="JUnit.ParkedSpotByRegistrationCommandTest" />
-        <item itemvalue="JUnit.ParkedVehiclesByColorCommandTest" />
-        <item itemvalue="JUnit.ParkedSpotsByColorCommandTest" />
-        <item itemvalue="JUnit.LeaveParkingCommandTest" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eba961eb-9b6f-4acb-8e0b-5536f5637e39" name="Default Changelist" comment="" />
-      <created>1573988696164</created>
+      <changelist id="a1b10dd2-86e3-4904-84ee-e2d5f8e2644f" name="Default Changelist" comment="" />
+      <created>1574142770951</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573988696164</updated>
-      <workItem from="1573988701293" duration="35706000" />
-      <workItem from="1574081910514" duration="15262000" />
+      <updated>1574142770951</updated>
+      <workItem from="1574142776567" duration="471000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="LeaveParkingCommandTest - 2019.11.18 at 23h 26m 05s.xml">
-      <configuration name="LeaveParkingCommandTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkedSpotsByColorCommandTest - 2019.11.18 at 23h 44m 33s.xml">
-      <configuration name="ParkedSpotsByColorCommandTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkedVehiclesByColorCommandTest - 2019.11.18 at 23h 58m 38s.xml">
-      <configuration name="ParkedVehiclesByColorCommandTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkedVehiclesByColorCommandTest - 2019.11.18 at 23h 59m 01s.xml">
-      <configuration name="ParkedVehiclesByColorCommandTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkedVehiclesByColorCommandTest - 2019.11.18 at 23h 59m 16s.xml">
-      <configuration name="ParkedVehiclesByColorCommandTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkedSpotByRegistrationCommandTest - 2019.11.19 at 00h 03m 01s.xml">
-      <configuration name="ParkedSpotByRegistrationCommandTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkedSpotByRegistrationCommandTest - 2019.11.19 at 00h 03m 47s.xml">
-      <configuration name="ParkedSpotByRegistrationCommandTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkedSpotByRegistrationCommandTest - 2019.11.19 at 00h 04m 14s.xml">
-      <configuration name="ParkedSpotByRegistrationCommandTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkedSpotByRegistrationCommandTest - 2019.11.19 at 00h 05m 35s.xml">
-      <configuration name="ParkedSpotByRegistrationCommandTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkedSpotByRegistrationCommandTest - 2019.11.19 at 00h 05m 53s.xml">
-      <configuration name="ParkedSpotByRegistrationCommandTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50968000" />
+    <option name="totallyTimeSpent" value="471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1607" height="954" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25303516" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="DB Browser" />
+      <window_info id="UI Designer" />
+      <window_info id="Project Explorer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="Job Explorer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24984026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="JRebel" order="3" side_tool="true" />
-      <window_info id="DB Browser" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info id="Project Explorer" order="7" />
-      <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info id="Job Explorer" order="9" />
-      <window_info id="Image Layers" order="10" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25986078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907193" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32946634" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="11" weight="0.32946634" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="JRebel Executor" order="13" />
-      <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.32946634" />
-      <window_info anchor="bottom" id="Console" order="16" />
-      <window_info anchor="bottom" id="Version Control" order="17" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.13099042" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/command/Command.kt</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/test/parking/ParkingLotTest.kt</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/ParkingLotTest.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/VehicleColor.kt" />
-    <entry file="file://$PROJECT_DIR$/src/test/ParkingLotTest0.java" />
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/MapsJVM.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="237" selection-start-line="237" selection-end-line="237" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/main/ExitCommand.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/Display.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/ParkingLotTest.kt" />
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#870#1063#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/parking/ParkingLotTest">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/parking/ParkingLotTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="e#18#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/parking/ParkedMessageTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#17#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="203" column="34" selection-start-line="203" selection-start-column="34" selection-end-line="203" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/parking_lot.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/entity/CarSpotTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/parking/CreationMessageTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/parking/ParkingLotTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="48" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
-          <folding>
-            <element signature="e#17#370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/entity/CarSpotTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#16#170#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="615">
+            <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/ParkingMain.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="38" selection-start-line="38" selection-end-line="39" />
-          <folding>
-            <element signature="e#14#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/parking/Parking.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/command/ParkingCommands.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/parking/Messages.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <element signature="e#22#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/command/CreateParkingLotCommandTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/entity/ParkingSpot.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/entity/ParkingTicket.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/constants/Enums.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/command/LeaveParkingCommandTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="76" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="21" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/entity/Vehicle.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/parking/ParkingLot.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/command/Command.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-          <folding>
-            <element signature="e#22#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/command/ParkedSpotByRegistrationCommandTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/command/ParkedVehiclesByColorCommandTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/command/ParkedSpotsByColorCommandTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/command/ParkVehicleCommandTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/command/ParkingStatusCommandTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="225">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>parking_lot</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -847,21 +326,6 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>KotlinJavaRuntime</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
     </states>
-  </component>
-  <component name="mavenExecuteGoalHistory">
-    <option value="" />
   </component>
 </project>
